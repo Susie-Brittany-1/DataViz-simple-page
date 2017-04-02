@@ -2,5 +2,5 @@
 
 Link to the live site https://susie-brittany-1.github.io/DataViz-simple-page/
 
-Explore this data story ...
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Z3FGCGvRtmwfILIc_13vwOTEhUUWUA7E_cwd4ky_M3Y/pubchart?oid=150129112&amp;format=interactive"></iframe>
+For the current Data Visualization for All class, the number of female to male enrolled students shows by birth decade shows a trend of more males in most birth decades than females.
+<iframe width="859.5687331536387" height="531.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1qGPBwdPwRyWLneio64t5wDoMmAvEKc6hlHl9fN1gVJA/pubchart?oid=22385405&amp;format=interactive"></iframe>
